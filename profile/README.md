@@ -3,4 +3,4 @@ Our products:
 * [CoreData Studio](https://apps.apple.com/us/app/coredata-studio/id6670322925) - Fast, Reliable, Handy and Lightweight SQLite Viewer for your CoreData projects. Easily inspect, debug, search and optimize your data models with intuitive interface.
 
 More products
-* https://apps.apple.com/us/developer/momentarium-llc/id1671025250
+* [Momentarium LLC Apps on the App Store - Apple](https://apps.apple.com/us/developer/momentarium-llc/id1671025250)
