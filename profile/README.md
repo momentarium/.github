@@ -5,7 +5,7 @@ Our products:
  
 * VR/AR
   * [Boxing Trainer: Punch Master](https://apps.apple.com/us/app/boxing-trainer-punch-master/id6743240378?platform=vision) - First VR Boxing Simulator for Vision OS
-  * [Caelum: Spatial Planetarium](https://apps.apple.com/us/app/caelum-spatial-planetarium/id6757993013) - Platenetarium on your head. 3D Star Map and Universe Atlas
+  * [Caelum: Spatial Planetarium](https://apps.apple.com/us/app/caelum-spatial-planetarium/id6757993013) - Spatial VR Platenetarium for your Vision PRO. 3D Star Map and Universe Atlas
 
 More products
 * [Momentarium LLC Apps on the App Store - Apple](https://apps.apple.com/us/developer/momentarium-llc/id1671025250)
