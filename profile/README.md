@@ -1,6 +1,7 @@
 Our products:
 * Developer Tools
   * [AppScreen Studio](https://apps.apple.com/us/app/appscreen-studio/id6467930383) - Create perfect app screenshots with AppScreen Studio for better App Store visibility. Boost app downloads with perfect visuals. Try now and optimize your app success!
+  * [StoreSync: ASC Metadata Update](https://apps.apple.com/us/app/storesync-asc-metadata-update/id6775701704?mt=12) - Upgrade your app's performance with StoreSync: Optimize, and enhance your app's management and sync effortlessly. Boost user experience and connect with your audience.
   * [PriceLocus: Price Localization](https://apps.apple.com/us/app/pricelocus-price-localization/id6759205444?platform=mac) - Maximize Global Revenue with  Professional Tier Management. Effortlessly manage your entire portfolio. Bulk update tiers for Paid Apps, IAPs, and Subscriptions across 175+ regions based on GDP and actual purchasing power parity.
   * [CoreData Studio](https://apps.apple.com/us/app/coredata-studio/id6670322925) - Fast, Reliable, Handy, and Lightweight SQLite Viewer for your CoreData projects. Easily inspect, debug, search, and optimize your data models with an intuitive interface.
  
